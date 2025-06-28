@@ -1,6 +1,6 @@
 # AWS Load Balancer Controller on EKS with Fargate
 
-This repository provides a guide to setting up the AWS Load Balancer Controller on an Amazon EKS cluster using Fargate. Follow the steps below to deploy the 2048 game application using an Application Load Balancer (ALB) on AWS.
+This repository provides a guide to setting up the AWS Load Balancer Controller on an Amazon EKS cluster using Fargate. Follow the steps below to deploy  2048 game application using an Application Load Balancer (ALB) on AWS.
 
 ## Prerequisites
 
